@@ -54,8 +54,7 @@ plt.show()Attach the program
 ```
 # Output Waveform
 
-![Screenshot 2025-04-27 211755](https://github.com/user-attachments/assets/10c35c21-07fe-4bc5-931b-f31ba66cd884)
-
+![Screenshot 2025-04-28 203911](https://github.com/user-attachments/assets/0b1d4399-9c94-4b8e-9a46-665f9cfe7926)
 
 # Results
 
